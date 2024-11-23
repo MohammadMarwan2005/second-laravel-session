@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Airpods",
+        "price": 2.4
+    },
+    {
+        "id": 2,
+        "name": "Laptop",
+        "price": 899.99
+    },
+    {
+        "id": 3,
+        "name": "Smartphone",
+        "price": 599.49
+    },
+    {
+        "id": 4,
+        "name": "Wireless Mouse",
+        "price": 19.99
+    },
+    {
+        "id": 5,
+        "name": "Keyboard",
+        "price": 29.99
+    },
+    {
+        "id": 6,
+        "name": "Smartwatch",
+        "price": 199.99
+    },
+    {
+        "id": 7,
+        "name": "Bluetooth Speaker",
+        "price": 49.99
+    },
+    {
+        "id": 8,
+        "name": "Gaming Console",
+        "price": 399.99
+    },
+    {
+        "id": 9,
+        "name": "External Hard Drive",
+        "price": 79.99
+    },
+    {
+        "id": 10,
+        "name": "Monitor",
+        "price": 149.99
+    }
+]
